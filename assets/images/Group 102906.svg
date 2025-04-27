@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159.999" height="34" viewBox="0 0 159.999 34">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0393ff"/>
+      <stop offset="1" stop-color="#005eff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_102906" data-name="Group 102906" transform="translate(-77.001 -23)">
+    <g id="Group_102905" data-name="Group 102905">
+      <path id="_Path_" data-name="&lt;Path&gt;" d="M181.6,645.716l-3.914,6.781-3.9-6.76-.014-.023-.012.023-3.9,6.758-.019.035-3.9,6.749-.026.042-3.891,6.739-.03.054-7.756.021-.044-.075,3.879-6.718h.075l-.037-.063L162,652.551h.061l-.03-.054,3.891-6.739h.051l-.026-.044,3.9-6.746h.037l-.019-.035,3.9-6.758h.026l3.9,6.76-.007.009h.012Z" transform="translate(-77.195 -609.135)" fill="#fff"/>
+      <path id="_Path_2" data-name="&lt;Path&gt;" d="M252.141,632.123l-.05-.084-8.219.022-.037.062-.035-.062-8.247.022-.025.04-.022-.04-7.353.045,4.147,7.181h.007l7.345-.045h.059l-.03.052-4.13,7.154-.025.04v0l-4.135,7.161-.017.03-4.142,7.176,8.272-.022h.047l4.13-7.151-.03-.055h.059l4.122-7.141-.037-.062h.074l4.117-7.131-.045-.074h.087Z" transform="translate(-129.009 -609.039)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="NexaFuze" transform="translate(134 49)" fill="#fff" font-size="21" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="0">NexaFuze</tspan></text>
+  </g>
+</svg>
